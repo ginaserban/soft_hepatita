@@ -1,0 +1,46 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429367999341">
+  <folder name="css">
+    <file name="site_global.css" crc="4292080030"/>
+    <file name="index.css" crc="434892710" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="ds.mp4" crc="4138257772" mt="1429282261000"/>
+    <file name="ds.webm" crc="3999076170" mt="1429282421000"/>
+    <file name="sc.mp4" crc="287858320" mt="1429282334000"/>
+    <file name="sc.webm" crc="529862866" mt="1429282575000"/>
+    <file name="proiect.doc" crc="13673806" mt="1429285740000"/>
+    <file name="chestionar.docx" crc="3805701178" mt="1429350646000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
+    <file name="museutils.js" crc="3777594392" ref="index"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="webpro.js" crc="474087315" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
+    <file name="touchswipe.js" crc="100683906" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="arrow.png" crc="16677901" ref="index"/>
+    <file name="mar.jpg" crc="313121627" ref="index"/>
+    <file name="apa.jpg" crc="4033386535" ref="index"/>
+    <file name="sapun.jpg" crc="26838940" ref="index"/>
+    <file name="ochiul-crop-u3253.jpg" crc="4112536624" ref="index"/>
+    <file name="basm.jpg" crc="380259379" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cum_spalam_mainile-714x1024.jpg" crc="4050269487" ref="index"/>
+    <file name="desene.jpg" crc="331594405" ref="index"/>
+    <file name="eseu.jpg" crc="3874253312" ref="index"/>
+    <file name="ghicitori.jpg" crc="75719994" ref="index"/>
+    <file name="mesaje.jpg" crc="4027791344" ref="index"/>
+    <file name="pliante-afise.jpg" crc="86014206" ref="index"/>
+    <file name="poezii.jpg" crc="276691878" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3797326706" mt="1429367992336" redirect="true"/>
+</manifest>
